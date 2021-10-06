@@ -151,11 +151,11 @@ h2::after {
 }
 
 .carousel-indicators li {
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.424);
 }
 
 .carousel-indicators li.active {
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.636);
 }
 
 .star-rating li {
